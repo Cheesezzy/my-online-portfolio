@@ -1,0 +1,23 @@
+body {
+  background-color: #CDB699;
+}
+
+hr {
+  background-color: white;
+  border-style: none;
+  height: 2px;
+}
+h1 {
+  color: green;
+  font-size: 30px;
+}
+
+h3 {
+  color: green;
+}
+
+h4 {
+  color: green;
+}
+
+img {background-size: 200px;  /* background-color: blue; (for specification use the class or id attributes e.g class= bacon on html, .bacon on css) */ }
